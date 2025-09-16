@@ -17,6 +17,7 @@ O projeto simula operações básicas de um banco, como criação de contas, cli
 
 src/
 └── br.com.veesbank
+
 ├── model/
 │ ├── Account.java # Representa uma conta bancária
 │ ├── Customer.java # Representa um cliente do banco
