@@ -15,23 +15,8 @@ O projeto simula operações básicas de um banco, como criação de contas, cli
 
 ## 📂 Estrutura do Projeto
 
-src/
-└── br.com.veesbank
 
-├── model/
-│ ├── Account.java # Representa uma conta bancária
-│ ├── Customer.java # Representa um cliente do banco
-│ ├── Transaction.java # Registra uma transação
-│ └── TransactionType.java # Enum com tipos de transação (DEPÓSITO, SAQUE, etc.)
-│
-├── repository/
-│ └── AccountRepository.java # Simula o armazenamento de contas
-│
-├── service/
-│ └── BankService.java # Contém as regras de negócio do sistema
-│
-└── ui/
-└── Main.java # Ponto de entrada do sistema (executável)
+<img width="1244" height="879" alt="image" src="https://github.com/user-attachments/assets/a138a268-5be8-4be8-ae9d-3a45f50eaf49" />
 
 
 ---
